@@ -228,9 +228,9 @@ export default function CalculadoraSimuladorUnificado() {
                   </div>
                 </div>
               </div>
-              <p className="text-[11px] leading-snug text-gray-500 font-normal px-0.5">
+              {/* <p className="text-[11px] leading-snug text-gray-500 font-normal px-0.5">
                 Ajuste la capacidad seg&uacute;n el clima de tu regi&oacute;n para un consumo equilibrado.
-              </p>
+              </p> */}
             </div>
 
             {/* DIMENSIONES */}
