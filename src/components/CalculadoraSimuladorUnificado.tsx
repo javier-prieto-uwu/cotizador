@@ -258,7 +258,7 @@ export default function CalculadoraSimuladorUnificado() {
                       placeholder="0"
                     />
                     <div className="text-[11px] font-medium text-gray-400 mt-1.5">
-                      metros
+                      Datos
                     </div>
                   </div>
                 </div>
