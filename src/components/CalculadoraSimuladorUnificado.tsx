@@ -237,7 +237,7 @@ export default function CalculadoraSimuladorUnificado() {
             <div className="col-span-12 md:col-span-7 space-y-3 md:space-y-3.5">
               <label className="flex items-center gap-2 text-[12px] md:text-[13px] font-semibold text-gray-700">
                 <Ruler className="w-4 h-4 text-mirage-red" strokeWidth={2} />
-                Medidas del cuarto
+                Medidas de la habitación
               </label>
 
               <div className="grid grid-cols-12 gap-3 md:gap-4 items-stretch">

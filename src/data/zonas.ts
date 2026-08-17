@@ -48,7 +48,7 @@ export const ZONAS_CLIMATICAS: ZonaClimatica[] = [
   {
     id: 4,
     nombre: "Zona 4",
-    referencia: "Playa del Carmen",
+    referencia: "Quintana Roo | Playa del Carmen | Cancún",
     cargaBTUxM2: 1000,
     estados: [
       "Sonora",
