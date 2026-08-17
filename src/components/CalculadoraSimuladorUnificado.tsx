@@ -378,7 +378,7 @@ export default function CalculadoraSimuladorUnificado() {
                       </span>
                     </div>
                     <div className="text-[10px] text-gray-400 mt-0.5">
-                      Factor {zonaActiva.cargaBTUxM2 / 1000}x clima
+                      {zonaActiva.cargaBTUxM2 / 1000}x clima
                     </div>
                   </div>
                 </div>
