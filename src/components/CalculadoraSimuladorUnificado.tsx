@@ -377,9 +377,9 @@ export default function CalculadoraSimuladorUnificado() {
                         BTU
                       </span>
                     </div>
-                    <div className="text-[10px] text-gray-400 mt-0.5">
+                    {/* <div className="text-[10px] text-gray-400 mt-0.5">
                       {zonaActiva.cargaBTUxM2 / 1000}x clima
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
